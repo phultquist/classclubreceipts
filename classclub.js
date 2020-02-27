@@ -55,6 +55,7 @@ function onOpen(){
   // Or DocumentApp or FormApp.
   ui.createMenu('Food Cart')
       .addItem('Summary By Person', 'summaryByPerson')
+      .addItem('Update Settings Sheet', 'updateSettingsSheet')
       .addToUi();
 }
 
