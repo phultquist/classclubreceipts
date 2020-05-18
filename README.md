@@ -1,4 +1,4 @@
-# classclubreceipts
+# Class Club Receipts
 These scripts have each been made to make the Class Clubs more efficient and provide better experiences for those who interact with the Class Clubs. For any questions about a specific script or a request for a new one please email phultquist@imsa.edu. Any edits to the code can be done through Tools > Script Editor. These use Google Apps Script (nearly identical to JavaScript) and HTML (for emails). Each of these should be tested before put into general use. Patrick Hultquist is not responsible for any errors in each script or documentation or if Admin gets mad.
 
 ## General & Form Setup
